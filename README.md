@@ -1,4 +1,6 @@
-Hello, I'm Swapnil Srivastava! As part of a scholarship opportunity, I am currently writing my master's thesis with Munich Re in Germany. I am a masters student at the Technical University of Dortmund, studying data science. I studied computer science for my B.Tech in India. I've worked in the field of data science for more than 3 years (India & Germany).<br />
+Hello, I'm Swapnil Srivastava!<br />
+
+As part of a scholarship opportunity, I am currently writing my master's thesis with Munich Re in Germany. I am a masters student at the Technical University of Dortmund, studying data science. I studied computer science for my B.Tech in India. I've worked in the field of data science for more than 3 years (India & Germany).<br />
 
 I'm currently seeking for full time opportunities in India, following my masters program! You may connect with me on LinkedIn.: https://www.linkedin.com/in/swapnil-srivastava-52113a131/
 
