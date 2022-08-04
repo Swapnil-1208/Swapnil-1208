@@ -1,5 +1,5 @@
-Hi, I am Swapnil Srivastava! I am currently pursuing Masters in Data Science from TU Dortmund, Germany. I am a Computer Science Engineer having 3 years of enriching experince in IBM India Pvt Ltd. 
-I am currently looking for internships / part-times in the field of Data Science. You can reach me via LinkedIn: https://www.linkedin.com/in/swapnil-srivastava-52113a131/
+Hello, I'm Swapnil Srivastava! As part of a scholarship opportunity, I am currently doing my master's thesis with Munich Re in Germany. I am a masters student at the Technical University of Dortmund, studying data science. I studied computer science for my B.Tech in India. I've worked in the field of data science for more than 3 years (India & Germany)
+I'm currently seeking for full time opportunities in India, following my matsers program! You may connect with me on LinkedIn.: https://www.linkedin.com/in/swapnil-srivastava-52113a131/
 
 
 <!---
