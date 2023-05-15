@@ -1,6 +1,6 @@
 Hello, I'm Swapnil Srivastava!<br />
 
-I am currently in the last semester of my master's in Data Science from TU Dortmund, NRW Germany, and am actively seeking job opportunities in India.
+I hold a master's in Data Science from TU Dortmund, NRW Germany, and currently actively seeking job opportunities in India.
 
 I have successfully written my master's thesis on "Identifying anomalies in the Insurance world to improve audit processes" in Munich Re, as a scholarship opportunity. I was also the 1st runner-up among 15+ International teams in a Datathon organized by COST FINTECH and AI in Finance for my study on "Gender diversity in opening an account at a financial institution."
 
