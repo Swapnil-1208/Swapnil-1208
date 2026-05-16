@@ -15,10 +15,10 @@
 🛠️ Stack
 Python · SQL · R · scikit-learn · pandas · Tableau · Hive
 
----
-
 📌 Pinned below
-↓ Master's Thesis — Unsupervised Anomaly Detection in Insurance
+↓ Master's Thesis — Unsupervised Anomaly Detection in Insurance world
+
+---
 
 You can contact me via LinkedIn  (https://www.linkedin.com/in/swapnil-srivastava-52113a131/) or via email (swapnilsrivastava1208@gmail.com).
 
